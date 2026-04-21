@@ -1,4 +1,4 @@
-# Real-Time Collaborative Notes
+# Job Matching Recommendation System
 
 A full-stack real-time collaborative note-taking app where multiple users can create, edit, and share notes simultaneously. Built with React, TypeScript, Django Channels (WebSockets), and PostgreSQL/Supabase.
 
